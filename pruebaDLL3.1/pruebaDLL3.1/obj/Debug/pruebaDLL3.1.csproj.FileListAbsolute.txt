@@ -1,0 +1,6 @@
+C:\Users\dai\Desktop\vsTerceraparte\pruebaDLL3.1\pruebaDLL3.1\bin\Debug\pruebaDLL3.1.dll
+C:\Users\dai\Desktop\vsTerceraparte\pruebaDLL3.1\pruebaDLL3.1\bin\Debug\pruebaDLL3.1.pdb
+C:\Users\dai\Desktop\vsTerceraparte\pruebaDLL3.1\pruebaDLL3.1\obj\Debug\pruebaDLL3.1.csproj.CoreCompileInputs.cache
+C:\Users\dai\Desktop\vsTerceraparte\pruebaDLL3.1\pruebaDLL3.1\obj\Debug\pruebaDLL3.1.dll
+C:\Users\dai\Desktop\vsTerceraparte\pruebaDLL3.1\pruebaDLL3.1\obj\Debug\pruebaDLL3.1.pdb
+C:\Users\dai\Desktop\vsTerceraparte\pruebaDLL3.1\pruebaDLL3.1\bin\Debug\pruebaDLL3.1.tlb
